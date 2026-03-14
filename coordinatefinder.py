@@ -6,23 +6,23 @@ SEED = ""
 COORDS = ""
 
 create_world={
-    x: 0,
-    y: 0
+    "x": 0,
+    "y": 0
 }#TODO: ADD COORDS FOR CREATE WORLD BUTTON
 
 allow_commands={
-    x: 0,
-    y: 0
+    "x": 0,
+    "y": 0
 }#TODO: ADD COORDS FOR ALLOW COMMANDS
 
 create_new_world_btn={
-    x: 0,
-    y: 0
+    "x": 0,
+    "y": 0
 }#TODO: ADD COORDS FOR CREATE NEW WORLD BUTTON
 
 seed_coord={
-    x: 0,
-    y: 0
+    "x": 0,
+    "y": 0
 }#TODO: ADD COORDS FOR SEED BUTTON
 
 
