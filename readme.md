@@ -1,13 +1,13 @@
 ## A personal Project developed to find stronghold of Multiple Minecraft worlds using automation
 
 ## How to use
--> use pointer.py to find the coordinates of Buttons
--> Insert the coordinate into coordinate finder objects
--> run minecraft and run coordinate finder.py
--> wait and let it run
+-> Run pointer.py, hover over each button, and note the X/Y it prints
+-> Put those coordinates into config.py
+-> Run minecraft and run coordinatefinder.py
+-> Wait and let it run
 
 ## How to run:
--> Run: "pip install pyautogui pyperclip time" in terminal
--> Run: "pyton pointer.py" and find coordinates
--> Put the coordinates in coordinatefinder.py 
+-> Run: "pip install pyautogui pyperclip" in terminal
+-> Run: "python pointer.py" and find coordinates
+-> Put the coordinates in config.py
 -> Run Minecraft and Run: "python coordinatefinder.py"
